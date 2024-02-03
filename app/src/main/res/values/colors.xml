@@ -7,5 +7,10 @@
     <color name="text_color">#53E88B</color>
     <color name="bg_color">#FFF4FBF4</color>
 
+    <color name="startColor">#53E88B</color>
+    <color name="endColor">#15BE77</color>
+
+
+
 
 </resources>
